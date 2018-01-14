@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>fail.png</file>
+        <file>ok.png</file>
+        <file>cart.png</file>
+        <file>vk.png</file>
+        <file>mail.png</file>
+        <file>timer.png</file>
+        <file>fs.png</file>
+        <file>floppy.png</file>
+        <file>end.png</file>
+        <file>begin.png</file>
+        <file>open.png</file>
+        <file>copy.png</file>
+        <file>link.png</file>
+    </qresource>
+</RCC>
